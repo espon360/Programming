@@ -1,0 +1,17 @@
+--------
+|   |
+|   @
+|  /|\
+|   |
+|  / \
+|
+------------
+Narrator: "Well, looks like you blew it.
+Wish I could say this was unexpected, 
+but we both know that's not true.
+Maybe next time you'll think twice about jaywalking.
+
+Well, off to the gallows with you!"
+
+***Program has been terminated***
+

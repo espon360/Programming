@@ -1,0 +1,5 @@
+Three differences between C89 and C99:
+
+1) C89 only supports 32 keywords while C99 supports 37.
+2) In C99, you can declare the variable inside a for loop's argument
+3) In C89, variable declarations must come first before you write any statements or function. In C99, you can mix between declaring and writing statements first

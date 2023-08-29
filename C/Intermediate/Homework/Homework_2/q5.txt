@@ -1,0 +1,12 @@
+10 Useful Linux Commands
+
+1) cd change directory
+2) rm delete/remove a file
+3) mv move/rename a file
+4) cp copy a file
+5) man manual for any given command
+6) cat display text contents of a file
+7) more display text contents of file one page at a time
+8) ls list files in directory
+9) pwd print working directory
+10) .\ run an executable

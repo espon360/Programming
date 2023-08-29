@@ -1,0 +1,357 @@
+Business: Grub Munkey
+Address:  1522 E ABRAM STREET
+Contact:  Shawn Hassam
+
+Business: buffalo wing and grill
+Address:  1615 W PARK ROW DRIVE
+Contact:  songhwa austin
+
+Business: Quan Hong
+Address:  1818 E PIONEER PARKWAY Suite 190
+Contact:  MyHong Thi Trinh
+
+Business: Jamal’s food house
+Address:  930 W SUBLETT ROAD Suite 101
+Contact:  Mohammad abdel razzaq
+
+Business: Tic-Taco
+Address:  715 W PARK ROW DRIVE
+Contact:  Ricardo Kevin Palma Montano
+
+Business: BAMS VEGAN LLC
+Address:  1730 W RANDOL MILL ROAD 142
+Contact:  Brandon Waller
+
+Business: Tarboosh Gyro Grill
+Address:  4300 MATLOCK ROAD 108
+Contact:  Mohamad Alnsour
+
+Business: Cataleya Restaurant
+Address:  7807 S COOPER STREET 123
+Contact:  Sarah Mendez
+
+Business: AFG SR South Arlington LLC
+Address:  2012 S COOPER STREET
+Contact:  Brian Morse
+
+Business: AFG SR Bowen LLC
+Address:  1201 S BOWEN ROAD
+Contact:  Brian Morse
+
+Business: AFG SR Collins LLC
+Address:  4301 S COLLINS STREET
+Contact:  Brian Morse
+
+Business: AFG SR Green Oaks LLC
+Address:  5501 S COOPER STREET
+Contact:  Brian Morse
+
+Business: AFG SR N Arlington LLC
+Address:  409 W RANDOL MILL ROAD
+Contact:  Brian Morse
+
+Business: One Love Caribbean Restaurant & Lounge
+Address:  2315 S COOPER STREET
+Contact:  Rajendra Kisson
+
+Business: Amore Mio Trattoria
+Address:  101 E ABRAM STREET Suite 190
+Contact:  CHRISTIAN RODRIGUEZ
+
+Business: Mi Canton Latino Restaurant 2
+Address:  620 W PARK ROW DRIVE
+Contact:  Gabriela Ventura
+
+Business: MARISCOS SUPER MIX
+Address:  3503 E DIVISION STREET
+Contact:  evelyn alondra
+
+Business: Frieddaze
+Address:  5005 S COOPER STREET Suite 159
+Contact:  Long Le
+
+Business: Nizza Pizza & Pasta
+Address:  1430 S COOPER STREET
+Contact:  Yong G. Hwang
+
+Business: The Allen Workshop LLC
+Address:  426 E LAMAR BOULEVARD Suite 110
+Contact:  MEGHAN ALLEN
+
+Business: Cafe Everest
+Address:  3901 W ARKANSAS LANE 107A
+Contact:  Janakee Limbu
+
+Business: Under the Icing
+Address:  3601 SW GREEN OAKS BOULEVARD 109
+Contact:  Ginger Midkiff
+
+Business: Pinkies
+Address:  3101 E DIVISION STREET
+Contact:  Roy Thompson
+
+Business: HTeaO Arlington
+Address:  2231 N COLLINS STREET
+Contact:  Joe Ellis
+
+Business: Thrill’s Turkey Legs
+Address:  1904 BAIRD FARM ROAD
+Contact:  Gregory Hill
+
+Business: UMI sushiandgrill
+Address:  915 E ROAD TO SIX FLAGS STREET 103
+Contact:  Nutpattar Itsarawiphat
+
+Business: Wingstop
+Address:  2030 S COOPER STREET Suite 100
+Contact:  Tommy Hicks
+
+Business: Roma Trattoria
+Address:  6204 S COOPER STREET Suite 100
+Contact:  Sadiret Fazliu
+
+Business: Zalat Pizza
+Address:  5415 S COOPER STREET 117
+Contact:  Clay Muirhead
+
+Business: PHO MAI
+Address:  2230 S COLLINS STREET
+Contact:  MEI CHIUNG FENG
+
+Business: Okal’s cafe&grill
+Address:  900 E COPELAND ROAD 150
+Contact:  Mohammad
+
+Business: Taco Supremo Management LLC
+Address:  TACO BUENO
+Contact:  Alejandro Orfanos
+
+Business: YA jerusalem Market
+Address:  3295 S COOPER STREET Suite 121
+Contact:  Yassine Elkhayat
+
+Business: D. Smith's Chicken and Fish LLC
+Address:  1030 W ARKANSAS LANE 206
+Contact:  David Smith
+
+Business: UZY'S NEW YORK PIZZA
+Address:  6851 MATLOCK ROAD Suite 101
+Contact:  mohammad ousman ehsan
+
+Business: Egg Bar
+Address:  457 E INTERSTATE 20 HIGHWAY Suite 121
+Contact:  Jay Sung
+
+Business: Domino's Store #9381
+Address:  7207 S COOPER STREET Suite 131
+Contact:  Donald Reichert
+
+Business: hersheys palace pizza wangs and thangs
+Address:  511 E ABRAM STREET
+Contact:  Anthony Jones
+
+Business: Twisted Root
+Address:  310 E ABRAM STREET Suite 100
+Contact:  Bill McMahon
+
+Business: Golden Chick
+Address:  1800 S COOPER STREET
+Contact:  Donna Gore
+
+Business: A + Nutrition
+Address:  3400 S WATSON ROAD 112
+Contact:  Lindsey Cowins
+
+Business: NHG Foods LLC
+Address:  821 NE GREEN OAKS BOULEVARD
+Contact:  Rami Qafaf
+
+Business: FRUTERIA TOSTITOS
+Address:  2150 E PIONEER PARKWAY 110
+Contact:  RODOLFO MARTINEZ
+
+Business: Habibi Corner Store
+Address:  3415 S COLLINS STREET Suite 101
+Contact:  Abedallah Akari
+
+Business: Kung Fu Tea
+Address:  101 E ABRAM STREET Suite 170
+Contact:  Ayla Hernandez
+
+Business: Knock Em Tenders
+Address:  710 E SUBLETT ROAD Suite 171
+Contact:  Ghassan Bilaih
+
+Business: Steves Coney Island
+Address:  710 E SUBLETT ROAD Unit 175
+Contact:  Steve Washington
+
+Business: EllaB's Restaurant
+Address:  1004 N COLLINS STREET
+Contact:  Patricia Whitfield
+
+Business: beer and brats
+Address:  5005 S COOPER STREET Suite 183
+Contact:  Samuel Holzman
+
+Business: ARLINGTON CHOP HOUSE LLC
+Address:  5005 S COOPER STREET Suite 163
+Contact:  Sakib Mannan
+
+Business: Zalat Pizza Service
+Address:  1805 N COLLINS STREET Suite 141
+Contact:  Jennifer Rowland
+
+Business: taqueria charly
+Address:  830 E PIONEER PARKWAY 104
+Contact:  carlos salgado
+
+Business: Bayou Cat
+Address:  2505 E ARKANSAS LANE 131
+Contact:  phi
+
+Business: Tacosymas
+Address:  702 W INTERSTATE 20 HIGHWAY 106
+Contact:  Mahbub Zaman
+
+Business: Iris Bagel & Coffee House
+Address:  5801 W INTERSTATE 20 HIGHWAY 360
+Contact:  Eunyoung Jang
+
+Business: Mon Viet Cafe
+Address:  1818 E PIONEER PARKWAY Suite 182
+Contact:  Natalie Phan
+
+Business: VMR CATERING
+Address:  1175 N WATSON ROAD B
+Contact:  Vilma Rice
+
+Business: Cooper Donuts Inc.
+Address:  4935 S COOPER STREET
+Contact:  Rishad Rajabali
+
+Business: CINNAHOLIC
+Address:  5001 S COOPER STREET Suite 115
+Contact:  Elvi Mariana Feijoo
+
+Business: Tu-Chi Creative Kitchen
+Address:  2525 E ARKANSAS LANE 253
+Contact:  Tracy Trice
+
+Business: Kokee Tea
+Address:  3811 S COOPER STREET 2052
+Contact:  Eunhye Cho
+
+Business: Wakanda Bar & Grill
+Address:  2535 E ARKANSAS LANE 361
+Contact:  Tiffany Yakana
+
+Business: Forever donuts
+Address:  1515 S COOPER STREET D
+Contact:  Jana Park
+
+Business: Thao Vy Cafe
+Address:  1115 E PIONEER PARKWAY SUITE 105
+Contact:  Khang Ho
+
+Business: Breakfast Brothers
+Address:  130 E BARDIN ROAD 128
+Contact:  Trenton Parker
+
+Business: Cane Rosso Montrose LLC dba Cane Rosso Arlington
+Address:  200 N EAST STREET
+Contact:  Todd Garton
+
+Business: Five Guys Burgers and Fries
+Address:  4245 S COOPER STREET Suite 151
+Contact:  Anay Reyes
+
+Business: DelCiano PInoy Cuisine LLC
+Address:  6320 US 287 HIGHWAY Suite 108
+Contact:  FELICIANO DELAPAZ
+
+Business: Yummy Cup Corn & Wassup Dog
+Address:  3811 S COOPER STREET Suite K5556
+Contact:  ahmed Al Tani
+
+Business: McCullar's Irish Pub and Grill
+Address:  1001 NE GREEN OAKS BOULEVARD SUITE 139
+Contact:  Daryl McCullar
+
+Business: La Sirrena Mexican Sea food and Bar
+Address:  404 N COLLINS STREET
+Contact:  Daniel Rodriguez
+
+Business: G Willickers Pub
+Address:  310 109TH STREET
+Contact:  Carmen Denise Luke
+
+Business: Latina Restaurante
+Address:  3333 E DIVISION STREET
+Contact:  Yesenia Rubio
+
+Business: king of wing and daiquiri
+Address:  1110 S BOWEN ROAD A
+Contact:  simry ramirez
+
+Business: AL rayan kabab & gyros
+Address:  5504 MATLOCK ROAD Suite 150
+Contact:  Munir mustafa
+
+Business: Nearly Famous
+Address:  1905 E ARKANSAS LANE
+Contact:  Kevin Lowe
+
+Business: Domino's Pizza 6575
+Address:  1201 W ARBROOK BOULEVARD 125
+Contact:  Brad Mayhall
+
+Business: VU TRUONG CHIEU TIM
+Address:  2535 E ARKANSAS LANE 335
+Contact:  BILLY BUI
+
+Business: Jay Jay Cafe
+Address:  4401 LITTLE ROAD 580
+Contact:  Teodulo Montiel
+
+Business: Bar Louie already in existence
+Address:  4001 BAGPIPER WAY Suite 101
+Contact:  cindy block
+
+Business: 287 Nutrition
+Address:  4701 W SUBLETT ROAD Suite 110
+Contact:  Beth Oldham
+
+Business: PH ARLINGTON LLC DBA STUDIO6
+Address:  1980 W PLEASANT RIDGE ROAD
+Contact:  KRUNAL PATEL
+
+Business: Golden Chopsticks
+Address:  1110 N COLLINS STREET A
+Contact:  zhuowei huang
+
+Business: VINA CAFE
+Address:  2232 S COLLINS STREET
+Contact:  MINH PHAN
+
+Business: TGBlessing Vietnamese Cuisine
+Address:  1827 SW GREEN OAKS BOULEVARD 149
+Contact:  Kristine Lam
+
+Business: SUBWAY
+Address:  1515 S COOPER STREET B
+Contact:  Robert Pierce
+
+Business: Dimples Fries ‘n’ Wings
+Address:  5700 S COLLINS STREET Suite 100
+Contact:  Andrea Shofner
+
+Business: Al’s Hamburgers
+Address:  405 FIELDER NORTH PLAZA SC
+Contact:  Melody Lawrence
+
+Business: CHICAGO PIZZA AND PASTA
+Address:  2141 N COLLINS STREET 525
+Contact:  
+
+
